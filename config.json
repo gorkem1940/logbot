@@ -1,0 +1,32 @@
+{
+    "Settings": {
+        "Token": "MTA1MTIzNzcyNTkxNjg5NzQ5Mg.Gr8fyH.HFiBBco5eeTR2ikJ1EzPzBfAw88vxDvNE-Yb30",
+        "VoiceID": "1056582679333703690",
+        "botDurum": "gorkem",
+        "Durum": "GORKEM",
+        "Type": "STREAMING",
+        "url": "1940"
+ 
+    },
+    "Channels": {
+     "sunucugüncelleme": "1056582677626621964",
+     "kanaloluşturma": "1056582677626621965",
+     "kanaldüzenleme": "1056582677626621966", 
+     "kanalsilme": "1056582678171893800",
+     "banatma": "1056582678171893802",
+     "bankaldırma": "1056582678171893803", 
+     "üyerolgüncelleme": "1056582678171893806", 
+     "botekleme": "1056582678171893807",
+     "rololuşturma": "1056582678834585650", 
+     "rolgüncelleme": "1056582678834585651",
+     "rolsilme": "1056582678834585652",
+     "webhook": "1056582678834585653", 
+     "emojioluşturma": "1056582679333703694",
+     "emojigüncelleme": "1056582679908335626",
+     "emojisilme": "1056582679908335627"
+   
+ 
+ 
+ 
+    }
+ }
